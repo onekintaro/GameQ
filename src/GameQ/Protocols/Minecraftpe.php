@@ -40,5 +40,5 @@ class Minecraftpe extends Minecraft
      *
      * @type string
      */
-    protected $name_long = "MinecraftPE";
+    protected $name_long = "Minecraft BedrockEngine";
 }
